@@ -1,5 +1,7 @@
 *.pickle
 
+*.mat
+
 *.gz
 *.v2
 *.pb
